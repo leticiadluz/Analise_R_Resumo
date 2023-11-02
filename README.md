@@ -13,7 +13,7 @@ outras informações relevantes foram coletadas das pacientes.
 'dplyr', que fornece um conjunto robusto de ferramentas para filtrar, selecionar, ordenar e resumir dados; 'data.table', uma alternativa eficiente para operações de manipulação de dados; 
 'tidyr', que ajuda a remodelar a estrutura dos dados; e 'plyr', que oferece capacidades de loop para processamento de grupos de dados.**
 
-Caso deseje acessar a monografia completa, [clique aqui.](https://acervodigital.ufpr.br/bitstream/handle/1884/82592/R_G_LETICIA_DA_LUZ.pdf?sequence=1&isAllowed=y)
+Caso deseje acessar a monografia completa, [clique aqui.](https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/82592/R_G_LETICIA_DA_LUZ.pdf?sequence=1&isAllowed=y)
 
 ## Ferramentas utilizadas
 
